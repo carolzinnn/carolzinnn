@@ -9,8 +9,6 @@ Estudante do IFMA Campus Açailândia pelo curso de informatica, pronta para tod
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in//)
 
 
-### 📊 Estatísticas no GitHub:
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=AkashicGF&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkashicGF&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
